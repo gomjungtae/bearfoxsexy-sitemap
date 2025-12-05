@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <sitemap>
+        <loc>https://bearfoxsexy.com/sitemap_core.xml</loc>
+    </sitemap>
+    <sitemap>
+        <loc>https://bearfoxsexy.com/sitemap_products.xml</loc>
+    </sitemap>
+    <sitemap>
+        <loc>https://bearfoxsexy.com/sitemap_categories.xml</loc>
+    </sitemap>
+    <sitemap>
+        <loc>https://bearfoxsexy.com/sitemap_visual_pages.xml</loc>
+    </sitemap>
+
+</sitemapindex>
